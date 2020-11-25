@@ -1,6 +1,4 @@
-###  👋
-
-## Hi there 👋
+### Hi there 👋
 ### Here can you find many projects and packages, if you have any project ideas or package ideas, feel free to send them to r.roscher@r-services.eu
 
 📫 How to reach me:
