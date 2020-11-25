@@ -8,8 +8,10 @@
 
 🌐 My Projects:
 
-- [LIVCK](https://livck.com)
-- [Go2x](https://go2x.link)
+- [LIVCK](https://livck.com) (released at: 13.11.2020)
+- [R-Tools](https://tools.r-services.eu) (released at: 24.11.2020)
+- [Go2x](https://go2x.link) (released at: 25.11.2020)
+- [Hostify](https://hostify.host) (released at: 25.11.2020)
 
 🔒 Projects in the planning stage:
 
@@ -18,7 +20,6 @@
 - Upload4k
 - VPLEON
 - Webginx
-- Hostify
 - DNSMAN
 - Company-Safe
 - LICAT
