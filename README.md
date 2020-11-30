@@ -34,5 +34,6 @@
 - [soft-logger](https://github.com/Rene-Roscher/soft-logger)
 
 <p align="center">
-    <img src=https://github-readme-stats.vercel.app/api?username=Rene-Roscher&show_icons=true alt=Rene-Roscher />
+    <img align="left" src=https://github-readme-stats.vercel.app/api?username=Rene-Roscher&show_icons=true alt=Rene-Roscher />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rene-roscher&layout=compact" alt="Rene-Roscher" />
 </p>
