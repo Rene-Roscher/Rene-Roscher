@@ -13,15 +13,15 @@
 - [LIVCK](https://livck.com) (released at: 13.11.2020)
 - [R-Tools](https://tools.r-services.eu) (released at: 24.11.2020)
 - [Go2x](https://go2x.link) (released at: 25.11.2020)
-- [Hostify](https://hostify.host) (released at: 25.11.2020)
+- [Hostify](https://hostify.host) (released at: 25.11.2020) | now scoutly.de
+- [Scoutly](https://scoutly.de) (released at: 13.02.2021)
+- [Netichost](https://scoutly.de) (released at: 16.03.2021)
 
 🔒 Projects in the planning stage:
 
 - Bot-Feature
-- LAROHOST
 - Upload4k
 - VPLEON
-- Webginx
 - DNSMAN
 - Company-Safe
 - LICAT
@@ -29,7 +29,7 @@
 - mc4free
 - game-cp
 
-🔭 Fun fact: I own well over 30 domains and I am one with Laravel 😜
+🔭 Fun fact: I own well over 35 domains and I am one with Laravel 😜
 
 
 ❤️ Support my open source projects:
