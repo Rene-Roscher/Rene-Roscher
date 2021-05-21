@@ -11,15 +11,13 @@
 🌐 My Projects:
 
 - [LIVCK](https://livck.com) (released at: 13.11.2020)
-- [R-Tools](https://tools.r-services.eu) (released at: 24.11.2020)
 - [Go2x](https://go2x.link) (released at: 25.11.2020)
-- [Hostify](https://hostify.host) (released at: 25.11.2020) | now scoutly.de
 - [Scoutly](https://scoutly.de) (released at: 13.02.2021)
-- [Netichost](https://scoutly.de) (released at: 16.03.2021)
+- [Netichost](https://netichost.com) (released at: 16.03.2021)
+- [Bot-Feature](https://bot-feature.com) (released at: 25.03.2021)
 
 🔒 Projects in the planning stage:
 
-- Bot-Feature
 - Upload4k
 - VPLEON
 - DNSMAN
