@@ -13,10 +13,6 @@
 🌐 My Projects:
 
 - [LIVCK](https://livck.com) (released at: 13.11.2020)
-- [Go2x](https://go2x.link) (released at: 25.11.2020)
-- [Netichost](https://netichost.com) (released at: 16.03.2021)
-- [Bot-Feature](https://bot-feature.com) (released at: 25.03.2021)
-- [Twitch-Leak-Checker](twitch-beta.vercel.app) (released at: 08.10.2021)
 
 🔒 Projects in the planning stage:
 
