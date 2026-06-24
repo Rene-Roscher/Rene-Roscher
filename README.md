@@ -14,4 +14,4 @@
 
 🔒 Projects in the planning stage:
 
-- LIVCK Cloud
+- [LIVCK Cloud](https://livck.cloud) (Q3 2026)
