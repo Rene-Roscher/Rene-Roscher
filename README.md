@@ -134,6 +134,10 @@ Frontend is the **VILT** stack (**V**ue · **I**nertia · **L**aravel · **T**ai
   <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Rene-Roscher/Rene-Roscher/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+## AI
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/Rene-Roscher/svg?sort=cost&template=graph&color=green&rank=percent&tokens=compact&cost=full)](https://tokscale.ai/u/Rene-Roscher)
+
 ## Elsewhere
 
 Off the clock: cars — currently a **BMW F11 520d** I drive and wrench on — and photography, some of it from a **DJI Mavic Air 2**.
