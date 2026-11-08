@@ -17,7 +17,7 @@ dependencies and a fair bit of applied cryptography.
 | | | |
 | :-- | :-- | :-- |
 | **LIVCK Self-Hosted** | 🟢 Operational | Docker deploy · since 2020 |
-| **LIVCK Cloud** | 🟢 Public beta | K8s on Hetzner, GitOps, global probes · GA soon |
+| **LIVCK Cloud** | 🟢 Operational | K8s on Hetzner, GitOps, global probes · since 2026/07 |
 
 ## Stack
 
