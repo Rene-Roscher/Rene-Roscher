@@ -33,7 +33,7 @@
     <text x="40" y="140" fill="#8B949E"><tspan fill="#F0F6FC" font-weight="700">René Roscher</tspan>  ·  solo founder &amp; platform engineer  ·  northern Germany</text>
 
     <text x="40" y="190"><tspan fill="#00E091">$</tspan> <tspan fill="#E6EDF3">livck</tspan> <tspan fill="#7D8590">status</tspan></text>
-    <text x="40" y="222" fill="#8B949E"><tspan fill="#00E091">●</tspan> <tspan fill="#F0F6FC">self-hosted</tspan> <tspan fill="#00E091">operational</tspan>    <tspan fill="#00E091">●</tspan> <tspan fill="#F0F6FC">cloud</tspan> <tspan fill="#00E091">public beta</tspan></text>
+    <text x="40" y="222" fill="#8B949E"><tspan fill="#00E091">●</tspan> <tspan fill="#F0F6FC">self-hosted</tspan> <tspan fill="#00E091">operational</tspan>    <tspan fill="#00E091">●</tspan> <tspan fill="#F0F6FC">cloud</tspan> <tspan fill="#00E091">live</tspan></text>
 
     <text x="40" y="272"><tspan fill="#00E091">$</tspan> <tspan fill="#E6EDF3">stack</tspan> <tspan fill="#7D8590">--top</tspan></text>
     <text x="40" y="304" fill="#8B949E">Go · PHP · Laravel · Vue · Kubernetes · ClickHouse · Go probes</text>
